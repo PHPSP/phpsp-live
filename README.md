@@ -1,3 +1,5 @@
+![PHPSP Live!](/phpsp-live.png?raw=true)
+
 # O projeto
 
 Em meio a essa adaptação na transição de trabalho no escritório para a quarentena e o trabalho em casa, muitos de nós podemos estar nos sentindo um tanto sozinhos e isolado e é justamente para tentar aliviar esses sentimentos que pensamos nessa iniciativa visando ajudar toda a comunidade neste tempo difícil e mostrar que podemos sim passar por isso juntos.
