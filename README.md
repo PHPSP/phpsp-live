@@ -18,7 +18,7 @@ O PHPSP dará espaço não só a comunidade PHP de São Paulo, a ideia é promov
 
 O **PHPSP Live** é um evento da comunidade para a comunidade e todos são muito bem-vindos! Basta [submeter sua proposta](https://docs.google.com/forms/d/e/1FAIpQLSfT8uZV3uLooNv_FK7qKCqL6b6UPd4qoGVOl_q77TH2kArBRQ/viewform) e entraremos emc ontato.
 
-Caso tenha interesse em palestrar mas nunca fez algo do gênero conte conosco! Utilize as issues informando o assunto que deseja falar e entraremos em contato para viabilziar sua apresentação! Caso precise de ajuda para estruturar uma palestra, como funciona o formato online, como perder o medo de palestrar, enfim, qualqur coisa, pode contar com a gente que vamos ajudar a viabilizar sua apresentação =)
+Caso tenha interesse em palestrar mas nunca fez algo do gênero conte conosco! Utilize as issues informando o assunto que deseja falar e entraremos em contato para viabilziar sua apresentação! Caso precise de ajuda para estruturar uma palestra, como funciona o formato online, como perder o medo de palestrar, enfim, qualquer coisa, pode contar com a gente que vamos ajudar a viabilizar sua apresentação. =)
 
 ## Contatos
 
